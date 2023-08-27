@@ -1,0 +1,1 @@
+chmod +x example.py && ./example.py arg1 arg2 arg3 arg4
